@@ -10,4 +10,3 @@
  ellipse(width*1/3, height*1/2, width*1/75, width*1/75);
  ellipse(width*2/3, height*2/3, width*1/15, width*1/15);
  ellipse(width*1/4, height*1/4, width*1/15, width*1/15);
- fill(#0F0F0
